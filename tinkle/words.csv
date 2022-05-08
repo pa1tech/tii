@@ -1,0 +1,210 @@
+﻿WORD,Domain,Length,Explanation,Hint
+adder,Hardware,5,Can be an opamp based adder to add analog signals or a digital adder,An arithmetic circuit
+aging,Hardware,5,"Electronic components age with time, leading to reliability problems.",Causes circuits to fail over time.
+anode,Hardware,5,Positive electrode,One of the terminals of a battery.
+audio,Software,5,Audio may refer to audio frequencies (few Hz to a few kHz) which a human ear can perceive.,A type of signal that DSP can process.
+board,Hardware,5,Board refers to a printed circuit board in electronics.,A medium to build an electronic system.
+boron,Semicon,5,Boron is a p-type impurity that is added to make pure silicon a p-type siicon.,A chemical element used in semiconductors.
+cable,Hardware,5,Cable refers to connecting wire(s) in an electronic system.,An interconnection element.
+clamp,Semicon,5,To clamp an analog signal is to add a DC voltage to the signal.,This is a way to hold an analog signal.
+clear,Hardware,5,Flipflops have a 'clear' input to clear their output asynchronously to 0.,"A kind of input signal, it is also a kind of soup."
+clock,Hardware,5,A timing signal in a digital synchronous circuit.,"On, Off, On, Off, … "
+decay,Semicon,5,The transient response a circuit may decay over time.,"An English word that means to ""go bad over time"""
+delay,Hardware,5,Time delay in a digital circuit.,Flights sometimes have this problem.
+delta,Hardware,5,"A small increment is referred to as delta, e.g. delta-t is a small increment in time.",A Greek alphabet
+diode,Semicon,5,A semiconductor device or a vacuum tube device which conducts current only in one direction.,A two-terminal device.
+donor,Semicon,5,An atom which donates an electron in the lattice structure.,A charity-minded material.
+doped,Semicon,5,When impurities are added to pure semicon material,A semicon material which is durgged?
+drain,Semicon,5,One of the terminals of an FET.,Majority carriers flow into this terminal.
+drift,Semicon,5,A current caused by drifting of majority carriers is a 'drift' current.,Move steadily in one direction…
+epoxy,Semicon,5,A type of resin used in semiconductor manufacturing.,A chemical used in fabrication
+eprom,Hardware,5,Electrically programmable read-only memory.,"It is not volatile, for sure"
+farad,Hardware,5,"Named after Faraday, this is a unit of capacitance.",Measurement unit of an electrical quantity
+fault,Hardware,5,A fault in an electronic can cause it to malfunction.,A malfunction?
+flash,Hardware,5,FLASH memory is a type of semiconductor memory which can be mass-erased quickly.,A kind of storage
+henry,Hardware,5,Henry is the unit of inductance.,Measurement unit of an electrical quantity
+hertz,Hardware,5,Hertz is the unit of frequency.,Measurement unit of an electrical quantity
+image,Software,5,An image consists of a rectangular array of picture elements or pixels.,It has many picture elements
+ingot,Semicon,5,Material from which semiconductor wafers are prepared.,"Before we get wafers, we have this"
+input,Hardware,5,Refers to the input signal to an electronic circuit.,Brings information in
+joule,Hardware,5,Joule is a unit of energy.,Measurement unit of an electrical quantity
+laser,Hardware,5,A synthesized form of radiation that finds many applications in imaging and medicine.,It is used in entertainment shows.
+latch,Hardware,5,A latch is a digital logic device which stores the input value in the output when a strobe input is provide.,Grab the data and store.
+ldmos,Semicon,5,LDMOS is a short form for laterally-diffused metal-oxide semiconductor,A type of semicnductor technology.
+level,Hardware,5,May refer to the logic level in a digital circuit,We have two of these in binary.
+litho,Semicon,5,A short form for photolithography,Development technology in fabs.
+logic,Hardware,5,"May refer to Boolean logic which has two values, namely, TRUE and FALSE",True and False are part of this.
+metal,Semicon,5,"May refer to metal layers in an IC, used for interconnect",Essential for connecting things.
+meter,Hardware,5,"May refer to various meters used in the lab, such as multimeter, ammeter, voltmeter, etc.",It takes a 'measure for measure'
+mixer,Hardware,5,A circuit used in analog receivers.,Blends signals.
+motor,Hardware,5,An electric motor is used in automotives and many other home appliances.,Runs the electric car.
+nodal,Hardware,5,Nodal voltage refers to the voltage on a circuit node.,KVL solves for these voltages
+noise,Hardware,5,Noise signals are all-pervasive and there are many kinds of noise.,We need to eliminate this from the input.
+ohmic,Hardware,5,"When we solder two wires together, we create an ohmic contact.","Related to the V=IR law, somehow?"
+opamp,Hardware,5,Operational amplifers are abbreviated as opamps.,Symbol is an isosceles triangle.
+oxide,Hardware,5,Silicon dioxide is a natural insulator in solid state circuits.,Insulation between layers of metal.
+piezo,Hardware,5,Piezo electric effect causes charges to be induced when pressure is applied on a material.,Pressurize to charge?
+pixel,Software,5,A picture element.,Makes up an image
+power,Hardware,5,Power is the rate of energy consumption (or generation).,Politics is all about this.
+pulse,Hardware,5,Electrical impulses which are given as inputs to circuits.,Repeated bursts of energy given as input?
+queue,Software,5,A first-in first-out data structure.,A fair policy for a kiosk?
+radio,Hardware,5,Radio is a telecommunication technology using radio-frequency (RF) signals.,A telecom device?
+relay,Hardware,5,A relay is an electrically operated switch. ,"A kind of race in sports events, a type of component in electrical circuits."
+reset,Hardware,5,Sequential circuits have a RESET pin to initialize them.,Control-Alt-Del
+resin,Hardware,5,Resins are widely used for encapsulation in the electronics and electrical industries,The gum from trees is an example
+setup,Hardware,5,The data signal for a flip-flop must be set up at least t-setup units of time before the clock triggers.,A scheme to deceive someone?
+shift,Hardware,5,A shift register is useful in electronics in applications such as data communication.,Move over.
+short,Hardware,5,A short circuit between two nodes in a circuit is a zero-resistance path between the nodes.,When V = 0 but I may not be zero.
+stack,Software,5,A last-in first-out data structure.,"If you enter first, you may not exit first"
+state,Hardware,5,We can represent a sequential circuit as a finite state machine.,A geographical entity is also a systemic entity?
+store,Software,5,Memory elements are also called storage elements and can help store information.,Keep it safe.
+surge,Hardware,5,A sudden increase in voltage/current due to transient changes.,When the rate of change reaches infinity?
+timer,Hardware,5,A timing device which counts down to 0 from a preset value and interrupts the processor.,You need it for rehearsing.
+trace,Hardware,5,A metal trace is the path taken by the metallic interconnect.,The footprint of interconnect?
+valve,Hardware,5,A vaccum tube device such as triode/pentode.,There is no air inside.
+video,Software,5,Information in the form of moving pictures.,The language of YouTube
+wafer,Hardware,5,A silicon wafer is used to make a number of chips at one go.,"There are so many, lots of them"
+width,Hardware,5,Width of a transistor is an important parameter in deciding the performance and power.,It determines transistor's performance.
+write,Hardware,5,Read and write are two operations on memories.,The moving hand does this and moves on.
+yield,Hardware,5,The percentage of defect-free chips as compared to the number of manufactured chips is the manufacturing yield.,It is also a sign on US roads?
+zener,Hardware,5,A kind of diode that is used in reverse-biased way and breaks down at a pre-set voltage value.,Used in regulators.
+active,Hardware,6,Active region of a transistor is where the drain current is linearly proportional to the drain-source voltage.,A state to which a transistor may belong?
+ampere,Hardware,6,A unit of current.,A unit of measurement of an electrical quantity.
+analog,Hardware,6,"Analog circuits operate on analog signals and carry out operations such as amplification, filtering, etc.",When not all is in TRUE and FALSE
+barium,Hardware,6,A p-type impurity used in semiconductor manufacturing.,A chemical element used in semiconductors.
+bicmos,Hardware,6,When both bipolar and CMOS technologies are used to get the best of both worlds.,A manufacturing technology that combines two kinds of devices?
+binary,Software,6,Binary logic uses 0 and 1.,Count to 1 and count back to 0
+branch,Hardware,6,Branch currents can be computed using KCL.,An offshoot of a circuit?
+bridge,Hardware,6,Bridget circuits such as Wheatstone bridge are used in measurements.,R1R3 = R2R4  will balance.
+buffer,Hardware,6,A buffer is a unity-gain amplifier which is useful in interfacing two circuits without loading effect.,Prevents the effect of loading?
+bypass,Hardware,6,A bypass capacitor is added across the emitter resistor to prevent negative feedback.,Provides a parallel path of low resistance ?
+carbon,Hardware,6,An element found in most organic compoiunds.,A chemical element used in semiconductors.
+cavity,Hardware,6,A cavity resonator is one in which waves exist in a hollow space inside the device. ,A dentist may find this in an electronic circuit?
+charge,Hardware,6,Flow of charges constitutes current.,They follow one another in a neat Q?
+copper,Hardware,6,Copper is used as an interconnect in semiconductors.,A chemical element used in semiconductors.
+cutoff,Hardware,6,A cutoff region in a transistor is when the input excitation is too weak to cause drain-source current.,A state to which a transistor may belong?
+defect,Hardware,6,A manufacturing defect can result in faulty operation of a circuit.,Reason to not sell a chip.
+design,Hardware,6,A circuit designed and verified before it is implemented.,A paper and pencil activity before we go to implementation?
+dipole,Hardware,6,The dipole antenna is an RF antenna used for radio transmitting and receiving applications.,North and South together?
+dopant,Hardware,6,An impurity added to a semiconductor.,Makes P-type or N-type?
+doping,Hardware,6,Adding of an impurtity to pure semiconductor material.,Drugging a semicon material?
+driver,Software,6,A device driver allows us to control a hardware device through APIs.,It takes the device all around the town?
+eeprom,Hardware,6,An electrical erasable programmable read-only memory.,This memory has an electrical engineering degree?
+energy,Hardware,6,Energy is dissipated in resistors whereas it is stored in inductors/capacitors.,Stored in C?
+fanout,Hardware,6,"When an output from a gate drives a number of gate inputs in a circuit, we say it fans out.",It is too hot because the cooling gadget is out?
+filter,Hardware,6,Filters remove unwanted signals from the input.,Removes what we don’t need.
+finfet,Hardware,6,"in a FINFET tansistor, the gate is placed on two, three, or four sides of the channel or wrapped around the channel, forming a double or even multi gate structure.",The device at the end of a FET era?
+glitch,Hardware,6,A glitch is a temporary change in state e.g. an output which is 0 may momentarily go to 1 and return to 0.,"0,0,0,0,0,1,0,0,0,0,0,…"
+ground,Hardware,6,Ground potential is the reference potential (zero).,
+hybrid,,6,,
+indium,,6,,
+induce,,6,,
+inject,,6,,
+invert,,6,,
+ladder,,6,,
+linear,,6,,
+memory,,6,,
+mesfet,,6,,
+mosfet,,6,,
+output,,6,,
+parity,,6,,
+period,,6,,
+photon,,6,,
+plasma,,6,,
+preset,,6,,
+proton,,6,,
+pullup,,6,,
+quartz,,6,,
+radian,,6,,
+ripple,,6,,
+safety,,6,,
+sample,,6,,
+sensor,,6,,
+signal,,6,,
+solder,,6,,
+source,,6,,
+stable,,6,,
+static,,6,,
+strobe,,6,A strobe is an input in a digital logic device such as a latch.,
+supply,,6,,
+switch,,6,,
+system,,6,,
+tester,,6,,
+timing,,6,,
+toggle,,6,,
+torque,,6,,
+triode,,6,,
+tunnel,,6,,
+vacuum,,6,,
+verify,,6,,
+wiring,,6,,
+amplify,,7,,
+antenna,,7,,
+bandgap,,7,,
+battery,,7,,
+bipolar,,7,,
+boolean,,7,,
+breaker,,7,,
+carrier,,7,,
+cascade,,7,,
+cascode,,7,,
+cathode,,7,,
+cathode,,7,,
+ceramic,,7,,
+channel,,7,,
+channel,,7,,
+chopper,,7,,
+circuit,,7,,
+clamper,,7,,
+clipper,,7,,
+colpitt,,7,,
+compact,,7,,
+compile,,7,,
+connect,,7,,
+control,,7,,
+coulomb,,7,,
+counter,,7,,
+crystal,,7,,
+current,,7,,
+decibel,,7,,
+decoder,,7,,
+deposit,,7,,
+digital,,7,,
+dynamic,,7,,
+emitter,,7,,
+encoder,,7,,
+epitaxy,,7,,
+failure,,7,,
+ferrite,,7,,
+fourier,,7,,
+gallium,,7,,
+hartley,,7,,
+impulse,,7,,
+induced,,7,,
+laplace,,7,,
+network,,7,,
+optimal,,7,,
+overlap,,7,,
+package,,7,,
+passive,,7,,
+pentode,,7,,
+program,,7,,
+quality,,7,,
+quantum,,7,,
+schmitt,,7,,
+silicon,,7,,
+storage,,7,,
+surface,,7,,
+thermal,,7,,
+valence,,7,,
+verilog,,7,,
+voltage,,7,,
+acceptor,,8,,
+compiler,,8,,
+covalent,,8,,
+electron,,8,,
+flipflop,,8,,
+inverted,,8,,
+inverter,,8,,
+resistor,,8,,
+validate,,8,,
